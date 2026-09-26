@@ -68,5 +68,5 @@ verification = buckVerify(p, sim);
 
 ## License
 
-Add a license of your choice (MIT is a common default for research/utility
+This project is licensed under the MIT License
 code) — see `LICENSE`.
