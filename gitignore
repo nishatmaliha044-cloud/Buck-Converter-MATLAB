@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+slprj/
+*.slxc
+codegen/
+*.mex*
+octave-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
